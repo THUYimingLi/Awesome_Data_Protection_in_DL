@@ -16,6 +16,6 @@ This repository will be updated soon.
    - Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia. arXiv, 2022.
 
  - Radioactive Data: Tracing through Training.
-  [[pdf]](http://proceedings.mlr.press/v119/sablayrolles20a/sablayrolles20a.pdf)
-  [[code]](https://github.com/facebookresearch/radioactive_data)
-  - Alexandre Sablayrolles, Matthijs Douze, Cordelia Schmid, and Herve Jegou. *ICML*, 2020.
+   [[pdf]](http://proceedings.mlr.press/v119/sablayrolles20a/sablayrolles20a.pdf)
+   [[code]](https://github.com/facebookresearch/radioactive_data)
+   - Alexandre Sablayrolles, Matthijs Douze, Cordelia Schmid, and Herve Jegou. *ICML*, 2020.
