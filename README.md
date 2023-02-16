@@ -12,4 +12,4 @@ This repository will be updated soon.
  - Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking.
    [[pdf]](https://arxiv.org/pdf/2209.06015.pdf)
    [[code]](https://github.com/THUYimingLi/DVBW)
-  - Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia. arXiv, 2022.
+   - Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia. arXiv, 2022.
