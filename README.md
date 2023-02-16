@@ -12,4 +12,10 @@ This repository will be updated soon.
  - Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking.
    [[pdf]](https://arxiv.org/pdf/2209.06015.pdf)
    [[code]](https://github.com/THUYimingLi/DVBW)
+   [[Workshop Version]](https://arxiv.org/pdf/2010.05821.pdf)
    - Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia. arXiv, 2022.
+
+ - Radioactive Data: Tracing through Training.
+  [[pdf]](http://proceedings.mlr.press/v119/sablayrolles20a/sablayrolles20a.pdf)
+  [[code]](https://github.com/facebookresearch/radioactive_data)
+  - Alexandre Sablayrolles, Matthijs Douze, Cordelia Schmid, and Herve Jegou. *ICML*, 2020.
