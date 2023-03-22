@@ -14,6 +14,11 @@ This repository will be updated soon.
    [[code]](https://github.com/THUYimingLi/DVBW)
    [[Workshop Version]](https://arxiv.org/pdf/2010.05821.pdf)
    - Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Shu-Tao Xia. arXiv, 2022.
+   
+- Did You Train on My Dataset? Towards Public Dataset Protection with Clean-Label Backdoor Watermarking.
+  [[pdf]](https://arxiv.org/pdf/2303.11470)
+  [[code]](https://github.com/Anonymous-Authors-Repo/watermark_dataset)
+  - Ruixiang Tang, Qizhang Feng, Ninghao Liu, Fan Yang, and Xia Hu. arXiv, 2023.
 
  - Radioactive Data: Tracing through Training.
    [[pdf]](http://proceedings.mlr.press/v119/sablayrolles20a/sablayrolles20a.pdf)
