@@ -24,3 +24,12 @@ This repository will be updated soon.
    [[pdf]](http://proceedings.mlr.press/v119/sablayrolles20a/sablayrolles20a.pdf)
    [[code]](https://github.com/facebookresearch/radioactive_data)
    - Alexandre Sablayrolles, Matthijs Douze, Cordelia Schmid, and Herve Jegou. *ICML*, 2020.
+
+
+## Dataset Reconstruction
+- [Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)
+
+- Visual Privacy Protection via Mapping Distortion.
+  [[pdf]](https://arxiv.org/pdf/1911.01769.pdf)
+  [[code]](https://github.com/PerdonLiu/Visual-Privacy-Protection-via-Mapping-Distortion)
+  - Yiming Li, Peidong Liu, Yong Jiang, Shu-Tao Xia. *ICASSP*, 2021.
