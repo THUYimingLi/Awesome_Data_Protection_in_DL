@@ -3,16 +3,16 @@ This Github repository summarizes the resources of the intellectual property pro
 
 
 ## Dataset Ownership Verification
-- Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
-  [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
-  [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
-  - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
- 
  - Black-box Dataset Ownership Verification via Backdoor Watermarking.
    [[pdf]](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)
    [[code]](https://github.com/THUYimingLi/DVBW)
    [[Workshop Version]](https://arxiv.org/pdf/2010.05821.pdf)
    - Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia. *IEEE Transactions on Information Forensics and Security*, 2023.
+
+- Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
+  [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
+  [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
+  - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
    
 - Did You Train on My Dataset? Towards Public Dataset Protection with Clean-Label Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2303.11470)
