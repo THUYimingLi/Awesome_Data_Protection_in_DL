@@ -2,7 +2,7 @@
 This GitHub repository summarizes the resources of the intellectual property protection of datasets in deep learning. We will update this repo regularly.
 
 
-## Dataset Ownership Verification
+## Dataset Ownership Verification (Copyright Protection)
  - Black-box Dataset Ownership Verification via Backdoor Watermarking.
    [[pdf]](https://www.researchgate.net/publication/369559541_Black-box_Dataset_Ownership_Verification_via_Backdoor_Watermarking)
    [[code]](https://github.com/THUYimingLi/DVBW)
@@ -25,7 +25,7 @@ This GitHub repository summarizes the resources of the intellectual property pro
    - Alexandre Sablayrolles, Matthijs Douze, Cordelia Schmid, and Herve Jegou. *ICML*, 2020.
 
 
-## Dataset Reconstruction
+## Dataset Reconstruction (Privacy Protection)
 - [Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)
 
 - Visual Privacy Protection via Mapping Distortion.
