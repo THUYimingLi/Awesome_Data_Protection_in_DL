@@ -1,4 +1,4 @@
-# Deep Dataset IP Protection
+# Data Protection in Deep Learning
 This GitHub repository summarizes the resources of data protection in deep learning. We will update this repo regularly.
 
 
