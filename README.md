@@ -1,5 +1,5 @@
-# Data Protection in Deep Learning
-This GitHub repository summarizes the resources of data protection in deep learning. We will update this repo regularly.
+# Data Protection in Deep Learning Era
+This GitHub repository summarizes the resources of data protection in deep learning era. We will update this repo regularly.
 
 
 ## Dataset Ownership Verification (Copyright Protection)
